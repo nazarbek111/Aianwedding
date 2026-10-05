@@ -1,0 +1,5 @@
+node_modules
+.next
+data/rsvps.json
+data/invitees.csv
+.env*
